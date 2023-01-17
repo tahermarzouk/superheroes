@@ -43,7 +43,7 @@ This is a learning project. It's not recommended for a production. The Solidity 
 8. As this is local deployment the app will start with an empty heroes list. To add heroes setup your MetaMask as shown below.
 
 ### Prepare you browser.
-####This step is required if you want to add reviews (perform write operations), or add a superhero when running on local environment.
+#### This step is required if you want to add reviews (perform write operations), or add a superhero when running on local environment.
 1. Install MetaMask plugin for your browser. FireFox, Chrome and Opera are supported. Follow instruction on https://metamask.io/ or get it from your browser store.
 2. If running against local Ehtereum: 
 2.1. go to terminal tab where you ran "make run_local_ethereum".
